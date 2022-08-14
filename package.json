@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/GerrickB/Mobile-Login-Project/issues"
   },
-  "homepage": "https://github.com/GerrickB/Mobile-Login-Project#readme"
+  "homepage": "https://github.com/GerrickB/Mobile-Login-Project#readme",
+  "dependencies": {
+    "firebase": "^9.9.2"
+  }
 }
